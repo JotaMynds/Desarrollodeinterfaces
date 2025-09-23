@@ -28,7 +28,7 @@ public class VentanaInicioSesion2 {
 
         public FondoPanel() {
             imagen = new ImageIcon(
-                    "C:/Users/Usuario1/Documents/GitHub/Desarrollo-de-interfaces/InterfazMaven/src/main/resources/Image/boliviainteligente-37WxvlfW3to-unsplash (1).jpg"
+                    "src/main/resources/Image/boliviainteligente-37WxvlfW3to-unsplash (1).jpg"
             ).getImage();
         }
 

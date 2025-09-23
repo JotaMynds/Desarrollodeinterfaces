@@ -15,8 +15,10 @@ public class VentanaInicioSesion1 {
         JFrame frame = new JFrame("VentanaInicioSesion1");
         frame.setContentPane(new VentanaInicioSesion1().Panel01);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
+        frame.setSize(800,600);
         frame.setVisible(true);
+        frame.setLocationRelativeTo(null);
+
     }
 
 

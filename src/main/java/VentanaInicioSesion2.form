@@ -3,7 +3,7 @@
   <grid id="27dc6" binding="Jpane" layout-manager="GridLayoutManager" row-count="25" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
     <margin top="0" left="0" bottom="0" right="0"/>
     <constraints>
-      <xy x="0" y="20" width="520" height="585"/>
+      <xy x="0" y="20" width="520" height="588"/>
     </constraints>
     <properties>
       <background color="-6194117"/>
@@ -16,12 +16,13 @@
     <children>
       <component id="63bb8" class="javax.swing.JLabel" binding="SignInLabel">
         <constraints>
-          <grid row="1" column="1" row-span="3" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="1" row-span="2" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-1511169"/>
           <font name="Consolas" size="26"/>
           <foreground color="-1"/>
+          <icon value="Image/codificacion(1).png"/>
           <text value="SIGN IN"/>
         </properties>
       </component>
