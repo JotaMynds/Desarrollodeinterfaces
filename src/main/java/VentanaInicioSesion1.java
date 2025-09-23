@@ -2,6 +2,13 @@ import javax.swing.*;
 
 public class VentanaInicioSesion1 {
     private JPanel Panel01;
+    private JLabel TituloLabel;
+    private JRadioButton CheckmarkPolities;
+    private JTextField textField1;
+    private JPasswordField passwordField1;
+    private JLabel UserLabel;
+    private JLabel PasswordLabel;
+    private JButton button1;
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("VentanaInicioSesion1");
