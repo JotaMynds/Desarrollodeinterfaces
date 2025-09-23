@@ -51,7 +51,11 @@
             <preferred-size width="278" height="34"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <enabled value="true"/>
+          <font name="Consolas"/>
+          <toolTipText value="Introduce your username"/>
+        </properties>
       </component>
       <component id="d7a8d" class="javax.swing.JLabel" binding="UserLabel">
         <constraints>
@@ -69,7 +73,10 @@
             <preferred-size width="278" height="34"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <font name="Consolas"/>
+          <toolTipText value="Introduce your password"/>
+        </properties>
       </component>
       <hspacer id="55d66">
         <constraints>
