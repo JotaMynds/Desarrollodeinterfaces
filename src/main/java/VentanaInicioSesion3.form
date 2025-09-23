@@ -282,6 +282,7 @@
                       <component id="4916" class="javax.swing.JTextPane" binding="Jtextpanel">
                         <constraints/>
                         <properties>
+                          <editable value="false"/>
                           <font name="Consolas"/>
                           <text value="Términos y Condiciones de Uso del &#10;Proyecto Ficticio Swing en IntelliJ IDEA &#10;&#10;1. Aceptación de los Términos  &#10;&#10;2. Propósito del Proyecto &#10;&#10;3. Licencia y Uso . &#10;&#10;4. Limitaciones de Responsabilidad &#10;&#10;5. Modificaciones y Actualizaciones  &#10;&#10;6. Contacto Para cualquier consulta "/>
                         </properties>
