@@ -81,7 +81,7 @@ En cada interfaz se aplicaron cambios a las propiedades de los componentes para 
 
 ## 📂 Estructura
 
-El código fuente está en la carpeta `src/`, donde se encuentran las tres interfaces.  
+El código fuente está en la carpeta `src/main/java`, donde se encuentran las tres interfaces.  
 
 ---
 
