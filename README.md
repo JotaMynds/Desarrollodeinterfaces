@@ -50,6 +50,28 @@ Una interfaz mucho más completa y dinámica, con gifs, fondos y gran variedad d
 
 ---
 
+## 🛠️ Modificaciones realizadas
+
+En cada interfaz se aplicaron cambios a las propiedades de los componentes para mejorar su apariencia y funcionalidad:  
+
+- **Interfaz básica**:  
+  - Se modificó el **color de los `JLabel`**,  
+  - El **tamaño de los elementos**,  
+  - El **color del `JPanel`**, entre otros ajustes.  
+
+- **Interfaz avanzada**:  
+  - Se añadió un **fondo de pantalla**,  
+  - Se modificaron los **colores de los textos**,  
+  - Se ajustaron los **tamaños y fuentes** para mejorar la usabilidad.  
+
+- **Interfaz creativa**:  
+  - Se añadieron **limitadores de espacio** para mantener la estructura,  
+  - Se personalizaron **colores, fuentes y tamaños**,  
+  - El `JProgressBar` se configuró para simular una **barra de vida**,  
+  - Se modificó el **texto del botón** y otros detalles visuales, además de heredar lo presente en las otras interfaces.  
+
+---
+
 ## ⚙️ Tecnologías
 
 - ☕ **Java (Swing)**  
@@ -64,4 +86,3 @@ El código fuente está en la carpeta `src/`, donde se encuentran las tres inter
 ---
 
 ✍️ Autor: **Iván Sánchez Juárez**
-
